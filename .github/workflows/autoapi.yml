@@ -63,7 +63,7 @@ jobs:
           git config --global user.email nqb13052003@gmail.com
           git config --global user.name Sushiba2ker
           git add .
-          git commit -m "Update new refresh token with . -a
+          git commit -m "Update new refresh token with TEST" -a
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
